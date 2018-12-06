@@ -1,0 +1,7 @@
+D:\C#代码\Encrypt_Excel\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\C#代码\Encrypt_Excel\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\C#代码\Encrypt_Excel\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\C#代码\Encrypt_Excel\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\C#代码\Encrypt_Excel\ClassLibrary1\ClassLibrary1\bin\Debug\Spire.XLS.dll
+D:\C#代码\Encrypt_Excel\ClassLibrary1\ClassLibrary1\bin\Debug\Spire.Pdf.dll
+D:\C#代码\Encrypt_Excel\ClassLibrary1\ClassLibrary1\bin\Debug\Spire.License.dll

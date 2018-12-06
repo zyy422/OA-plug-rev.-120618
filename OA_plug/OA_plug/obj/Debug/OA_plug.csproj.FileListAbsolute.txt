@@ -1,0 +1,8 @@
+D:\C#代码\Encrypt_Excel\OA_plug\OA_plug\bin\Debug\OA_plug.exe.config
+D:\C#代码\Encrypt_Excel\OA_plug\OA_plug\bin\Debug\OA_plug.exe
+D:\C#代码\Encrypt_Excel\OA_plug\OA_plug\bin\Debug\OA_plug.pdb
+D:\C#代码\Encrypt_Excel\OA_plug\OA_plug\bin\Debug\Spire.XLS.dll
+D:\C#代码\Encrypt_Excel\OA_plug\OA_plug\bin\Debug\Spire.Pdf.dll
+D:\C#代码\Encrypt_Excel\OA_plug\OA_plug\bin\Debug\Spire.License.dll
+D:\C#代码\Encrypt_Excel\OA_plug\OA_plug\obj\Debug\OA_plug.exe
+D:\C#代码\Encrypt_Excel\OA_plug\OA_plug\obj\Debug\OA_plug.pdb
